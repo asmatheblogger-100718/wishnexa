@@ -4,3 +4,4 @@ flask-cors
 python-dotenv
 crewai
 regex==2023.12.25
+tiktoken==0.7.0
