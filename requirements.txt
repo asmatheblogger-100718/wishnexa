@@ -3,5 +3,5 @@ gunicorn
 flask-cors
 python-dotenv
 crewai==1.14.3
-regex==2023.12.25
+regex>=2026.1.15
 tiktoken>=0.7.0
